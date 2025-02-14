@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: Stephen King API
   description: |
-    A RESTful API providing programmatically accessible data about the works and characters of the author Stephen King
+    A RESTful API providing programmatically accessible data about the works and characters of the author Stephen King.
     
     This documentation was created by [Víctor Laurencena](https://github.com/vlaurencena).
   version: 1.0.0
